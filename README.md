@@ -2,6 +2,7 @@
 Data science portfolio
 
 [**Python Project 1:**](https://colab.research.google.com/drive/1pwZAB9R3HINIg3WCDcza7XJrJ0oBWfxX?usp=sharing)
+
 • Analyzed climate change data for five African countries (Egypt, Tunisia, Cameroon, Senegal, Angola) from 1980 to 2023, provided by the U.S. Global Change Research Program.
 
 • Cleaned and processed the dataset to ensure accurate and meaningful analysis.
