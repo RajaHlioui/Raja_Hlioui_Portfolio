@@ -1,6 +1,16 @@
 # Raja_Hlioui_Portfolio
 Data science portfolio
 
+[**Python Project 1:**](https://colab.research.google.com/drive/1pwZAB9R3HINIg3WCDcza7XJrJ0oBWfxX?usp=sharing)
+• Analyzed climate change data for five African countries (Egypt, Tunisia, Cameroon, Senegal, Angola) from 1980 to 2023, provided by the U.S. Global Change Research Program.
+
+• Cleaned and processed the dataset to ensure accurate and meaningful analysis.
+
+• Built visualizations including line charts to illustrate temperature fluctuations in Tunisia and Cameroon, and histograms to compare temperature distributions in Senegal before and after 2000.
+
+• Created summary charts to display the average temperature per country, identified the top three hottest countries by average temperature, and designed a map chart to visualize these insights.
+
+
 [**Tableau Project 1: Data Visualization Dashboard**](https://public.tableau.com/views/TableauProject_17321202750010/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 • Created a Tableau dashboard using the Accelerator Program Data Set from Massachusetts to help visualize and analyze key metrics such as sales, profit, quantity, and trends over time. 
