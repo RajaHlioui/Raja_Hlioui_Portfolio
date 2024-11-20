@@ -1,7 +1,7 @@
 # Raja_Hlioui_Portfolio
 Data science portfolio
 
-[**Tableau Project 1: Data Visualization Dashboard**]([https://www.example.com](https://public.tableau.com/views/TableauProject_17321202750010/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link))
+[**Tableau Project 1: Data Visualization Dashboard**](https://public.tableau.com/views/TableauProject_17321202750010/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 • Created a Tableau dashboard using the Accelerator Program Data Set from Massachusetts to help visualize and analyze key metrics such as sales, profit, quantity, and trends over time. 
 
