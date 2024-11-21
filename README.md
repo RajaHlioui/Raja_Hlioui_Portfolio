@@ -1,6 +1,18 @@
 # Raja_Hlioui_Portfolio
 Data science portfolio
 
+[**SQL Project:Relational Database Management**](https://drive.google.com/file/d/1IHJJ2A6gym034ZEWMPtVbBhRi04oVZd1/view?usp=sharing)
+
+• Implemented an entity-relationship model for a wine producer system using SQL. 
+
+• Converted the conceptual diagram into a relational model.
+
+• Created tables for wines and producers.
+
+• Inserted data.
+
+• Performed various SQL queries including retrieving and sorting producers, calculating total and average production and identifying producers and their wine quantities.
+
 [**Python Project: Web Scraping**](https://colab.research.google.com/drive/10vHBz1i-J7uscc0I2jJU_2S7EA_-lWOo?usp=sharing)
 
 • Developed a Python tool using **BeautifulSoup** and **Requests** to extract structured data from Wikipedia pages. 
