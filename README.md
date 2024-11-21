@@ -4,8 +4,11 @@ Data science portfolio
 [**Python Project: Web Scraping**](https://colab.research.google.com/drive/10vHBz1i-J7uscc0I2jJU_2S7EA_-lWOo?usp=sharing)
 
 • Developed a Python tool using **BeautifulSoup** and **Requests** to extract structured data from Wikipedia pages. 
+
 • Retrieved the article title, maps headings to paragraphs, and collected internal Wikipedia links. 
+
 • Combined all functionalities into a single reusable function. 
+
 • Tested on two different pages in this project.
 
 [**Python Project:Data visualization**](https://colab.research.google.com/drive/1pwZAB9R3HINIg3WCDcza7XJrJ0oBWfxX?usp=sharing)
