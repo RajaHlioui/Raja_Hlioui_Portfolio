@@ -1,6 +1,23 @@
 # Raja_Hlioui_Portfolio
 Data science portfolio
 
+[**SQL Database Query Project**](https://drive.google.com/file/d/1XDWDBR2VBBg52PwUxV2YZ2158zH3hAny/view?usp=sharing)
+
+• Designed and queried a relational database that includes tables for Products, Customers, Orders, OrderDetails, and ProductTypes.
+
+• Extracted valuable insights, such as identifying customers with the highest number of orders, most frequently ordered products, and customer orders by specific days.
+
+• Utilized SQL functions like GROUP BY, JOIN, ORDER BY, and the TOP clause for optimized result retrieval in SQL Server.
+
+• Key highlights:
+
+Created a database schema with proper primary and foreign key relationships.
+
+Formulated complex queries to analyze customer and product order data.
+
+Optimized queries for efficient data retrieval using SQL Server features.
+
+
 [**SQL Project:Relational Database Management**](https://drive.google.com/file/d/1IHJJ2A6gym034ZEWMPtVbBhRi04oVZd1/view?usp=sharing)
 
 • Implemented an entity-relationship model for a wine producer system using SQL. 
