@@ -60,6 +60,7 @@ Welcome to My Data Science Portfolio!
 
 ![](https://github.com/RajaHlioui/Raja_Hlioui_Portfolio/blob/main/images/Capture%20d'%C3%A9cran%202024-11-24%20142910.png)
 
+
 [**Tableau Project 1: Data Visualization Dashboard**](https://public.tableau.com/views/TableauProject_17321202750010/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 • Created a Tableau dashboard using the Accelerator Program Data Set from Massachusetts to help visualize and analyze key metrics such as sales, profit, quantity, and trends over time. 
@@ -72,6 +73,7 @@ Welcome to My Data Science Portfolio!
 
 ![](https://github.com/RajaHlioui/Raja_Hlioui_Portfolio/blob/main/images/Capture%20d'%C3%A9cran%202024-11-24%20155126.png)
 
+
 [**Tableau Project 2: Data Visualization Dashboard-earthquakes records between 1/1/2001 and 1/1/2023 worldwide**](https://public.tableau.com/views/DataVisualizationWithTableauSoftware_17321357470830/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 • Created a Tableau dashboard using global earthquake data to analyze and visualize key metrics such as magnitude, significance, and tsunami occurrences.
@@ -83,3 +85,4 @@ Welcome to My Data Science Portfolio!
 **Business Impact:** This dashboard helps governments, NGOs, and insurance companies assess earthquake risks. By understanding patterns in earthquake magnitude and significance, stakeholders can make informed decisions on disaster preparedness and risk management.
 
 ![](https://github.com/RajaHlioui/Raja_Hlioui_Portfolio/blob/main/images/Capture%20d'%C3%A9cran%202024-11-24%20155723.png)
+
