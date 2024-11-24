@@ -46,6 +46,8 @@ Optimized queries for efficient data retrieval using SQL Server features.
 
 **Business Impact:** Automating data collection from websites can save businesses time and reduce manual effort. This tool can be used to monitor competitor content, gather market research, or analyze trends, improving strategic planning and responsiveness to market changes.
 
+![](https://github.com/RajaHlioui/Raja_Hlioui_Portfolio/blob/main/images/Capture%20d'%C3%A9cran%202024-11-24%20142910.png)
+
 [**Python Project: Data visualization**](https://colab.research.google.com/drive/1pwZAB9R3HINIg3WCDcza7XJrJ0oBWfxX?usp=sharing)
 
 • Analyzed climate change data for five African countries (Egypt, Tunisia, Cameroon, Senegal, Angola) from 1980 to 2023, provided by the U.S. Global Change Research Program.
