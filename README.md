@@ -19,7 +19,7 @@ Optimized queries for efficient data retrieval using SQL Server features.
 
 **Business Impact:** This project provides insights that help businesses optimize inventory and order management. By identifying top customers, most ordered products, and peak order times, companies can tailor marketing efforts, streamline supply chain operations, and boost sales.
 
-[**SQL Project:Relational Database Management**](https://drive.google.com/file/d/1IHJJ2A6gym034ZEWMPtVbBhRi04oVZd1/view?usp=sharing)
+[**SQL Project: Relational Database Management**](https://drive.google.com/file/d/1IHJJ2A6gym034ZEWMPtVbBhRi04oVZd1/view?usp=sharing)
 
 • Implemented an entity-relationship model for a wine producer system using SQL. 
 
@@ -42,11 +42,11 @@ Optimized queries for efficient data retrieval using SQL Server features.
 
 • Combined all functionalities into a single reusable function. 
 
-• Tested on two different pages in this project.
+• Tested on two different Wikipedia pages.
 
 **Business Impact:** Automating data collection from websites can save businesses time and reduce manual effort. This tool can be used to monitor competitor content, gather market research, or analyze trends, improving strategic planning and responsiveness to market changes.
 
-[**Python Project:Data visualization**](https://colab.research.google.com/drive/1pwZAB9R3HINIg3WCDcza7XJrJ0oBWfxX?usp=sharing)
+[**Python Project: Data visualization**](https://colab.research.google.com/drive/1pwZAB9R3HINIg3WCDcza7XJrJ0oBWfxX?usp=sharing)
 
 • Analyzed climate change data for five African countries (Egypt, Tunisia, Cameroon, Senegal, Angola) from 1980 to 2023, provided by the U.S. Global Change Research Program.
 
