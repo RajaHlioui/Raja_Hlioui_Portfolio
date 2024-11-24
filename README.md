@@ -11,11 +11,11 @@ Welcome to My Data Science Portfolio!
 
 • Key highlights:
 
-   Created a database schema with proper primary and foreign key relationships.
+   -Created a database schema with proper primary and foreign key relationships.
 
-   Formulated complex queries to analyze customer and product order data.
+   -Formulated complex queries to analyze customer and product order data.
 
-   Optimized queries for efficient data retrieval using SQL Server features.
+   -Optimized queries for efficient data retrieval using SQL Server features.
 
 **Business Impact:** This project provides insights that help businesses optimize inventory and order management. By identifying top customers, most ordered products, and peak order times, companies can tailor marketing efforts, streamline supply chain operations, and boost sales.
 
