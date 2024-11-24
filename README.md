@@ -59,8 +59,8 @@ Welcome to My Data Science Portfolio!
 **Business Impact:** Understanding climate change data can help businesses in agriculture, energy, and policy-making adjust their strategies to mitigate risks associated with changing weather patterns. Insights into temperature trends support data-driven environmental decision-making.
 
 
-![](images/Capture d'écran 2024-11-24 142910.png)
 
+![](images/Capture d'écran 2024-11-24 142910.png)
 
 [**Tableau Project 1: Data Visualization Dashboard**](https://public.tableau.com/views/TableauProject_17321202750010/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
