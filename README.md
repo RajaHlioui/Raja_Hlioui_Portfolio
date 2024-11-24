@@ -86,5 +86,4 @@ Welcome to My Data Science Portfolio!
 **Business Impact:** This dashboard helps governments, NGOs, and insurance companies assess earthquake risks. By understanding patterns in earthquake magnitude and significance, stakeholders can make informed decisions on disaster preparedness and risk management.
 
 
-![](https://github.com/RajaHlioui/Raja_Hlioui_Portfolio/blob/main/images/Capture%20d'%C3%A9cran%202024-11-24%20155723.png)
-
+![](images/Capture d'écran 2024-11-24 155723.png)
