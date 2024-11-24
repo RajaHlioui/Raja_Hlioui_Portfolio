@@ -73,7 +73,7 @@ Welcome to My Data Science Portfolio!
 **Business Impact:** This dashboard provides a clear visual analysis of key sales and profitability metrics, enabling businesses to identify trends, improve product offerings, and enhance profitability. The interactivity allows for deep dives into specific periods or product categories for more granular analysis.
 
 
-![**Pie Chart showing Segment vs Sum of Profit**](images/Capture d'écran 2024-11-24 155126.png)
+![](images/Capture d'écran 2024-11-24 190445.png)
 
 [**Tableau Project 2: Data Visualization Dashboard-earthquakes records between 1/1/2001 and 1/1/2023 worldwide**](https://public.tableau.com/views/DataVisualizationWithTableauSoftware_17321357470830/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
