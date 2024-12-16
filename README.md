@@ -14,7 +14,7 @@ Welcome to My Data Science Portfolio!
 
 • Created KPIs, such as total cases, deaths between January and June 2020, and the total cases in Africa, enabling users to quickly access key insights.
 
-
+![](https://github.com/RajaHlioui/Raja_Hlioui_Portfolio/blob/main/images/Capture%20d'%C3%A9cran%202024-12-16%20190804.png)
 
 [**Tableau Project 1: Data Visualization Dashboard**](https://public.tableau.com/views/TableauProject_17321202750010/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
