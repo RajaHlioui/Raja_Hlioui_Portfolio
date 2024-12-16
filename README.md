@@ -1,5 +1,5 @@
 
-Welcome to My Data Science Portfolio!  
+Welcome to my Data Science Portfolio!  
 
 
 [**Power BI Project 1: Defining the Data Model**](https://drive.google.com/file/d/1ioezoTOrGGUjQkOE-Ks7QZzsUXIcT_lK/view?usp=sharing)
