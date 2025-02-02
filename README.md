@@ -1,6 +1,16 @@
 
 Welcome to my Data Science Portfolio!  
 
+[**Deep Neural Network**](https://drive.google.com/file/d/1C3aopeau7thqcJ9MUuWwcwYoFNPTgJ57/view?usp=sharing)
+
+• Performed data analysis and visualization to understand customer behaviors in banking marketing campaigns.
+
+• Cleaned and preprocessed the dataset to prepare it for modeling.
+
+• Built and trained a deep learning model to predict whether customers will subscribe to a term deposit.
+
+• Evaluated the model's performance and suggested potential improvements for future campaigns.
+
 [**Machine Learning: Supervised Learning Regression**](https://colab.research.google.com/drive/1PnJqBja1eQzOGcwdFvK1Dt-1XE23Y92d?usp=sharing)
 
 • Conducted data exploration and preprocessing, including handling missing values, duplicates, and outliers.
