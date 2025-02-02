@@ -11,6 +11,14 @@ Welcome to my Data Science Portfolio!
 
 • Evaluated the model using relevant performance metrics and discussed potential improvements.
 
+[**Machine Learning: Unsupervised Association Rules**](https://colab.research.google.com/drive/1EFRY63qHcpg3MYWxwQCVSOLV_iVLod6T?usp=sharing)
+
+• Performed exploratory data analysis using Pandas and Plotly to visualize trends.
+
+• Implemented the apriori algorithm on a customer purchase dataset to identify meaningful associations between purchased items.
+
+• Interpreted results and provided marketing recommendations based on the discovered association rules.
+
 [**Power BI Project 1: Defining the Data Model**](https://drive.google.com/file/d/1ioezoTOrGGUjQkOE-Ks7QZzsUXIcT_lK/view?usp=sharing)
 
 • Developed a Power BI dashboard to analyze COVID-19 data using DAX functions and interactive visuals.
