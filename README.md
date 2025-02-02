@@ -1,6 +1,15 @@
 
 Welcome to my Data Science Portfolio!  
 
+[**Machine Learning: Supervised Learning Regression**](https://colab.research.google.com/drive/1PnJqBja1eQzOGcwdFvK1Dt-1XE23Y92d?usp=sharing)
+
+• Conducted data exploration and preprocessing, including handling missing values, duplicates, and outliers.
+
+• Performed feature encoding and split the dataset into training and test sets.
+
+• Developed and trained a machine learning regression model to predict energy consumption of 5G base stations.
+
+• Evaluated the model using relevant performance metrics and discussed potential improvements.
 
 [**Power BI Project 1: Defining the Data Model**](https://drive.google.com/file/d/1ioezoTOrGGUjQkOE-Ks7QZzsUXIcT_lK/view?usp=sharing)
 
